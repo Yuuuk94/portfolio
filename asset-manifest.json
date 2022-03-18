@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c68ac3b5.css",
-    "main.js": "/portfolio/static/js/main.aa12bbb6.js",
+    "main.css": "/portfolio/static/css/main.1fc70d21.css",
+    "main.js": "/portfolio/static/js/main.ab1a3476.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/nsad.png": "/portfolio/static/media/nsad.59e17cd5f3cec998a996.png",
     "static/media/scss.png": "/portfolio/static/media/scss.1c9a01e0c88e58a0b3ac.png",
     "static/media/profile.jpg": "/portfolio/static/media/profile.77dfa70e9eeb2e1c0a29.jpg",
     "static/media/tistory.png": "/portfolio/static/media/tistory.5f7d99ec023bd420fe1a.png",
     "static/media/zeplin.png": "/portfolio/static/media/zeplin.0d72241f2d1ce83700ff.png",
-    "static/media/js.png": "/portfolio/static/media/js.bda150cd4bdb5d81e1bc.png",
+    "static/media/jsimg.png": "/portfolio/static/media/jsimg.bda150cd4bdb5d81e1bc.png",
     "static/media/css.png": "/portfolio/static/media/css.1334cb45a7d5ad096543.png",
     "static/media/kakao.png": "/portfolio/static/media/kakao.d5575d9b2440b9cb291a.png",
     "static/media/react.png": "/portfolio/static/media/react.20adfb35ae6a6e5817bf.png",
@@ -36,12 +36,12 @@
     "static/media/microsoft_1.png": "/portfolio/static/media/microsoft_1.9b3d89460d5959edebbf.png",
     "static/media/microsoft_3.png": "/portfolio/static/media/microsoft_3.3529e0f0c2566553b729.png",
     "index.html": "/portfolio/index.html",
-    "main.c68ac3b5.css.map": "/portfolio/static/css/main.c68ac3b5.css.map",
-    "main.aa12bbb6.js.map": "/portfolio/static/js/main.aa12bbb6.js.map",
+    "main.1fc70d21.css.map": "/portfolio/static/css/main.1fc70d21.css.map",
+    "main.ab1a3476.js.map": "/portfolio/static/js/main.ab1a3476.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c68ac3b5.css",
-    "static/js/main.aa12bbb6.js"
+    "static/css/main.1fc70d21.css",
+    "static/js/main.ab1a3476.js"
   ]
 }
